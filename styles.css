@@ -1,0 +1,41 @@
+/*style*/
+
+/*
+.row.flex {
+    display: inline-flex;
+    width: 100%;
+}*/
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*//Figure out this flexbox glitch later*/
+/*#market{
+  margin: 0.5%;
+}*/
+
+
+body{
+  padding-top: 70px;
+}
+
+.jumbotron{
+  color:#2c3e50;
+  background: #ecf0f1;
+}
+
+.navbar-inverse{
+  background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  color:white;
+}
+
+.navbar-inverse .navbar-brand{
+  color:white;
+}
+
+/*#2c3e50 Dark blue */
+/*#ecf0f1 light gray*/
